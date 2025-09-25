@@ -16,3 +16,6 @@ This way, your video will be more accurate, and you will be able to get more poi
 GitHub Repository Link here:
 
 https://github.com/mccroyguy/aroundtheworld
+
+GitHub Pages Link here: 
+https://mccroyguy.github.io/aroundtheworld/
