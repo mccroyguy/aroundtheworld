@@ -1,7 +1,9 @@
 .footer {
   max-width: 880px;
-  margin: 67px auto 60px;
-  padding: 0 20px;
+  padding-left: 200px;
+  max-width: 282px;
+  padding-top: 20px;
+  margin-top: 40px;
 }
 
 .footer__copyright {
@@ -19,10 +21,5 @@
     font-size: 14px;
     line-height: 17px;
     color: #545454;
-  }
-  .footer {
-    margin: 45px auto 36px;
-    max-width: 282px;
-    padding: 0;
   }
 }

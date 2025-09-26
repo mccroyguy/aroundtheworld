@@ -2,6 +2,9 @@
   display: flex;
   align-items: center;
   padding-top: 40px;
+  /* border: 2px solid red; */
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 .profile__add:hover {
@@ -15,6 +18,8 @@
     "title button"
     "description description";
   grid-template-columns: minmax(auto, 373px) auto;
+  gap: 40px;
+  row-gap: 20px;
 }
 
 .profile__edit-button {
@@ -22,6 +27,7 @@
   height: 24px;
   width: 24px;
   grid-area: button;
+  align-self: center;
 }
 
 .profile__add-button {
@@ -39,6 +45,8 @@
   font-weight: 500px;
   grid-area: title;
   margin: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .profile__description {
