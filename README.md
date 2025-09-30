@@ -10,6 +10,9 @@ Video for Project url is here:
 
 https://youtu.be/jMckaLG6qAc
 
-GitHub Repository Link here:
+GitHub Pages Link here:
 
+https://mccroyguy.github.io/aroundtheworld/
+
+GitHub Repo Link here:
 https://github.com/mccroyguy/aroundtheworld
