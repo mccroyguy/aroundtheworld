@@ -1,6 +1,6 @@
 Project Creator: Guy McCroy.
 
-Project Name: AROUND THE WORLD - aka Sprint 3/Sprint 4.
+Project Name: AROUND THE WORLD - aka Sprint 3.
 
 Project Description:
 This project is an exercise in creating a responsive web page that displays a card gallery cleanly, regardless of the device being used to view the page.
@@ -16,4 +16,3 @@ https://mccroyguy.github.io/aroundtheworld/
 
 GitHub Repo Link here:
 https://github.com/mccroyguy/aroundtheworld
-
